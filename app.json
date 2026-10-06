@@ -1,0 +1,1 @@
+{"expo":{"name":"SAHLABU","slug":"sahabu","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"automatic","scheme":"sahabu","ios":{"supportsTablet":true,"bundleIdentifier":"com.sahabu.hymnbook"},"android":{"package":"com.sahabu.hymnbook"},"plugins":["expo-sqlite"]}}
