@@ -1,0 +1,1 @@
+export type Theme="light"|"dark"|"sepia";export type FontSize="small"|"medium"|"large";export type Hymn={id:number;number:number;title:string;firstLine:string;author?:string;tuneName?:string;key?:string;category?:string;lyrics:string;chorus?:string;notationImage?:string};
